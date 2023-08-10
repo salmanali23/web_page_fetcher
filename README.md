@@ -1,4 +1,4 @@
-# Web Page Fetcher and Saver
+# Web Page Fetcher
 
 Web Page Fetcher and Saver is a command-line tool that allows you to fetch web pages from the internet and save them to your local disk for later retrieval and browsing. It helps you archive web content and access it offline.
 
