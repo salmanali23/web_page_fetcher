@@ -37,6 +37,6 @@ To run the project locally, use the following command:
 
 2. Run the following commands:
    ```sh
-   docker build -t project-name .
-   docker run --rm -v $(pwd):/app project-name [arguments]
+   docker build -t web-page-fetcher .
+   docker run --rm -v $(pwd):/app web-page-fetcher [arguments]
 
